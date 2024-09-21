@@ -3,8 +3,8 @@ export const DOMAIN = 'https://jinxmangas.online';
 
 export const DOMAIN_NAME = 'jinxmangas.online';
 
-export const IMAGES_SUBDOMAIN = 'https://images.mangachimp.com/jinx';
-export const IMAGES_SUBDOMAIN_LOGO = 'https://images.mangachimp.com';
+export const IMAGES_SUBDOMAIN = 'https://images.mangatoons.online/jinx';
+export const IMAGES_SUBDOMAIN_LOGO = 'https://images.mangatoons.online';
 
 // export const MANGA_DESCRIPTION0 = `<a href="${DOMAIN}"><u><b>Vinland Saga</b></u></a>`;
 

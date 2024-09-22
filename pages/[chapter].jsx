@@ -33,7 +33,7 @@ export default function Chapter({ chapterNumber, imageUrls, totalChapters, param
     const nextChapter = chapterIndex < totalChapters - 1 ? chaptersData[chapterIndex + 1].chapterNumber : null;
 
 
-    const DESCRIPTION = `Read ${MANGA_NAME} chapter ${chapterNumber} online at ${DOMAIN_NAME} in a high-quality way.`;
+    const DESCRIPTION = `Read ${MANGA_NAME} ${MANGA_TYPE} chapter ${chapterNumber} online at ${DOMAIN_NAME} in HD quality.`;
     const URL = params.chapter;
 
 
